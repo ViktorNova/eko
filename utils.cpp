@@ -10,9 +10,9 @@ Peter Semiletov
 #include <QImageReader>
 #include <QImage>
 
+#include <math.h>
 
 #include "utils.h"
-
 
 bool file_exists (const QString &fileName)
 {

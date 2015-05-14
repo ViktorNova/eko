@@ -11,6 +11,7 @@ Peter Semiletov
 #include <QFileInfo>
 #include <QStringList>
 
+#include <math.h>
 
 class CFilesList: public QObject
 {

@@ -22,6 +22,7 @@
 
 
 #include <iostream>
+#include <math.h>
 
 #include <samplerate.h>
 #include <sndfile.h>

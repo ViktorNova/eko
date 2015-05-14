@@ -22,6 +22,8 @@
 #include "utils.h"
 #include "logmemo.h"
 
+#include <math.h>
+
 #include <QStandardItem>
 #include <QFileInfoList>
 #include <QUrl>
