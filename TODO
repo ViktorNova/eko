@@ -1,0 +1,38 @@
+to do or to fix:
+
+* caching subsystem
+* zoom to selection
+* перенести код открытия/сохранения из документа в CSoundBuffer
+* EQ is buggy
+* fix search via FIF
+* fix profiles engine //?
+* level meter < -26 dB
+* inspect fn_detect_average_value
+* noise gate realtime effect
+* fix the scrolling
+* switch to portaudio?
+* dc offset functions - check stereo support
+* add space when FXRack apply needs more file length //test with pitch shifter
+* 10-th seconds timeruler markers when > 1 min
+* fix Import RAW
+* implement Export RAW
+* add data modification status
+* rewrite fx internal data to save/load presets
+* FX rack presets
+* FX presets
+* reorder fx via drag'n'drop
+* looped play is not loop-range accurate?
+* level meter with precise time-based peaks falloff
+* paste with (mix)
+* redo
+* UI for RAW files
+* add warning on flush_undo()
+* mixer for channels > 2
+* time ruler redraw and palette
+* markers per file
+* recording mechanism
+* noise, fm synthesis for testing purposes
+* big/little endian at file format window?
+* stop playback on offline effect
+
+* disk cache? save temp float file - mmap - memcpy the window?

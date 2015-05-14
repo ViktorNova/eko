@@ -1,0 +1,9 @@
+=====NEWS ABOUT EKO====
+EKO 2.0.0, April 27 2015
+---------------------------------------
+http://semiletov.org/eko
+---------------------------------------
+
+   Major release. Too good to be described properly. JACK support has been dropped. Now EKO works with sound using Portaudio (as Audacity). Inner sound engine has been rewritten, adding the recording suppord and GUI themes. Bugfixes, new bugs introducing, etc.
+
+   Peter Semiletov, tea@list.ru
